@@ -1,0 +1,61 @@
+body {
+  color: #273E47;
+  background-color: #EAE9EA;
+  font-family: Open Sans;
+  font-size: 30px;
+  line-height: 1.6;
+}
+
+h1 {
+  color: #6B1119;
+  font-family: Montserrat;
+  font-size: 40px;
+  line-height: ;
+}
+
+h2 {
+  color: ;
+  font-family: Montserrat;
+  font-size: 20px;
+  line-height: ;
+}
+
+h3 {
+  color: ;
+  font-family: Montserrat;
+  font-size: 15px;
+  line-height: ;
+}
+
+.header-card {
+  background: #9CA7AB;
+  width: 1600px;
+  padding: 10px;
+  margin: 20px auto;
+  margin-bottom: 40px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.subject-card {
+  background: white;
+  width: 1600px;
+  padding: 7px;
+  margin: 20px auto;
+  margin-top: 0;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.subject-title {
+  font-size: 18px;
+  padding-left: 110px;
+  padding-bottom: 0px;
+  margin-bottom: 3px;
+}
+
+.movie_picture {
+  width: 1100px;
+  height: 700px;
+  margin: 5px;
+}
